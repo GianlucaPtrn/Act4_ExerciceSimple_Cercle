@@ -1,0 +1,14 @@
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.exe
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.deps.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.runtimeconfig.dev.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple\Act4_ExerciceSimple\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple.genruntimeconfig.cache
